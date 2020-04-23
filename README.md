@@ -10,6 +10,11 @@ https://github.com/JJongMani/gateway.git
 http POST 52.231.117.52:8080/librarySystems totalCount=0
 
 
+
+
+
+
+
 명령어 2 (studentId가 1001이 학생이 자리 예약) : 
 
 http POST 52.231.117.52:8080/reservationSystems studentId=1001
