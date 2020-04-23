@@ -1,3 +1,6 @@
+이벤트 스토밍 주소입니다.
+http://msaez.io/#/storming/Q3MDgCGHG4MEADmIbDNEu6Tl6wD3/mine/32b6b7ef21cf5385d0025f2c199636b3/-M5UaKSlDN4bXRL-Wyi5
+
 각 시스템의 소스코드는 아래 url에 있습니다. 
 
 https://github.com/JJongMani/ReservationSystem.git
