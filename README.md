@@ -18,4 +18,5 @@ http POST 52.231.117.52:8080/reservationSystems studentId=1001
 ### 명령어 3 (도서관의 totalCount가 1 증가했는지 확인) : 
 
 http 52.231.117.52:8080/librarySystems/1
+![image](https://user-images.githubusercontent.com/16271728/80061522-7c80cf00-856c-11ea-8588-eae393f00f9c.png)
 
